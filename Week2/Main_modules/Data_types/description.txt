@@ -1,0 +1,1 @@
+Denne undervisningsmodulen handler om at verdier alltid har en bestemt type, og at det finnes flere slike ulike typer.

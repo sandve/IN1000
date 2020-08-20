@@ -1,0 +1,1 @@
+Denne undervisningsmodulen handler om å komme i gang med å skrive et første python-program. Dette inkluderer å i en editor skrive kode som gjør noe helt enkelt, lagre denne koden som en python-fil og deretter kjøre filen med Python-tolkeren.

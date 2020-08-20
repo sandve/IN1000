@@ -1,0 +1,1 @@
+Denne undervisningsmodulen handler om hvordan en linje (et uttrykk) presist evaluerer.

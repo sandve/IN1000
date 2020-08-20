@@ -1,0 +1,1 @@
+Denne undervisningsmodulen handler om hvordan man kan ta vare på verdier for bruk senere i et program gjennom variabler.

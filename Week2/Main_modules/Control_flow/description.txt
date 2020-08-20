@@ -1,0 +1,1 @@
+Denne undervisningsmodulen handler om hvordan et program presist utføres fra linje til linje.

@@ -1,0 +1,1 @@
+Denne undervisningsmodulen handler om hvordan man kan styre hvilke kodelinjer som skal kjøres gjennom bruk av if-setninger.

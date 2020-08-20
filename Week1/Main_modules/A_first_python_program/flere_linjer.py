@@ -1,0 +1,5 @@
+print("---")
+print("Alle linjer")
+print("kommer")
+print("samtidig!")
+print("---")

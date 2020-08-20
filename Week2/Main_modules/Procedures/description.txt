@@ -1,0 +1,1 @@
+Denne undervisningsmodulen handler om hvordan flere kodelinjer kan grupperes i en kodeblokk som gis et navn og som kan kalles (kjøres) fra andre steder i koden.

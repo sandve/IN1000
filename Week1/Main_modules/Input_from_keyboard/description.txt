@@ -1,0 +1,1 @@
+Denne undervisningsmodulen handler om hvordan man i et program kan få informasjon fra brukeren mens programmet kjører.
