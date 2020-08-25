@@ -1,0 +1,1 @@
+Denne undervisningsmodulen handler om hvordan subrutiner (prosedyrer) kan motta verdier fra stedet hvor det blir kallet, gjennom at argument-verdier overføres fra kallstedet til parametervariabler i subrutinen (prosedyren).

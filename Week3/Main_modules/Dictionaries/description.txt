@@ -1,0 +1,1 @@
+Denne undervisningsmodulen handler om hvordan man kan lagre koblinger mellom verdier (nøkkel-verdi og innholds-verdi) i en ordbok.

@@ -1,0 +1,1 @@
+Denne undervisningsmodulen handler om hvordan løkker og samlinger typisk kan brukes sammen for programmer som jobber med en stor mengde verdier. 

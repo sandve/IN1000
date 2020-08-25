@@ -1,0 +1,1 @@
+Denne undervisningsmodulen handler om hvordan man kan bygge komplekse strukturer av verdier gjennom å ta vare på mange ulike samlinger i en overordnet samling. 

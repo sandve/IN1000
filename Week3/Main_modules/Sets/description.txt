@@ -1,0 +1,1 @@
+Denne undervisningsmodulen introduserer en type samling kalt mengde, hvor verdiene i samlingen ikke har noen rekkefølge og hvor en gitt verdi enten finnes eller ikke (en samling kan ikke inneholde to eller flere elementer av samme verdi).

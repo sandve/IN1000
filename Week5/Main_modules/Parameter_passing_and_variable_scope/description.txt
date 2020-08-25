@@ -1,0 +1,1 @@
+Denne undervisningsmodulen introduserer konseptet skop som sier noe om hvor i koden en gitt variabel er synlig. Den viser videre hvordan man bør begrense skopet til variabler og bruke parameteroverføring for å sende verdier til hvor i koden de trengs.

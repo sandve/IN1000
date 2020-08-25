@@ -1,0 +1,1 @@
+Denne undervisningsmodulen handler om hvordan man kan holde orden på mange verdier i en samling. Modulen presenterer en bestemt type samling - en liste - hvor verdier ligger i rekkefølge og kan settes inn og hentes ut basert på sin indeks (posisjon) i listen.

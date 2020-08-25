@@ -1,0 +1,1 @@
+Denne undervisningsmodulen handler om hvordan man kan få et program til å kjøre de samme kodelinjene et stort antall ganger for å oppnå mer omfattende funksjonalitet.

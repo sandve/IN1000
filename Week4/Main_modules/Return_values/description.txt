@@ -1,0 +1,1 @@
+Denne undervisningsmodulen handler om hvordan en subrutine kan returnere en verdi tilbake til kallstedet. Slike subrutiner som returnerer en verdi kalles funksjoner. På kallstedet (hvor funksjonen kalles) sier man at funksjonskallet evaluerer til returverdien. 

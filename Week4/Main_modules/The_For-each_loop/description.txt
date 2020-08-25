@@ -1,0 +1,1 @@
+Denne undervisningsmodulen introduserer en type løkke kalt for-løkke som kjører kodelinjene inni løkka én gang for hver verdi i en samling. I tillegg til kodelinjene definerer man da hvilken samling man vil iterere gjennom, samt definerer en variabel som blir tilordnet én verdi fra samlingen i hver iterasjon.
