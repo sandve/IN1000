@@ -19,23 +19,22 @@ Syntax errors, also known as parsing errors, are perhaps the most common kind of
     
 The parser repeats the line where the error was found, and displays a little 'arrow' pointing at the earliest point in the line where the error was detected. The error is thus caused by something written before the arrow: in this example, the error is detected at the function print(), since a colon (':') is missing before it. 
 
-Because the arrow only shows where the error was detected, this means that in some cases the error may even be on the previous line, such as in this example (note that this example uses a dictionary, which will be introduced in week 3):
+Because the arrow only shows where the error was detected, this means that in some cases the error may even be on the previous line, such as in this example:
 
-    # contents of my fruitcounter.py script
-    count_fruit = {
-        "apple": 5,
-        "banana": 6 # missing comma here
-        "pear": 3 
-    }
+    # contents of my error.py script
+    def procedure():
+        print("Hello world"
+
+    procedure()
 
 which gives the error:
 
-      File "fruitcounter.py", line 4
-        "pear": 3 
-             ^
+      File "error.py", line 4
+        procedure()
+                ^
     SyntaxError: invalid syntax
 
-because of the missing comma in the line *before* the 'pear' entry.
+because of the missing bracket of the print statement. 
 
 ### 1.2 Runtime errors
 
